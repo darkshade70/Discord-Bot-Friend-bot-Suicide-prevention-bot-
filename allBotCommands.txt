@@ -1,0 +1,53 @@
+```
+Here is a list of all available bot commands
+--------------------------------------------
+*Bot prefix is "k-".
+
+**Commands**
+
+Games & Entertainment
+---------------------
+8ball: This is a simple 8ball command that answers a yes or no question from the user.
+
+rps: Classic rock, paper, scissors. You can play this game against the bot by typing "k-rps" + "Your choice".
+
+joke: Randomly picks from a variety of different jokes. All of them sure to crack a smile.
+
+roll: For all the dnd players this one is for you. This command allows user to roll a # sided dice for # amount of times
+      Example: "k-roll d6 1"
+
+coinflip: Randomly flips a coin and lands on either heads or tails.
+
+Server
+------
+kick: Owners or users with the manage roles permissions can kick other users from the server using the kick command.
+      This command can be executed by typing 'k-kick ' + '@{username}'.
+
+ban: Owners or users with the manage roles permissions can ban other users from the server using the ban command.
+     This command can be executed by typing 'k-ban ' + '@{username}'.
+
+clear: This is a simple clear command that deletes the messages sent in a channel. Example: 'k-clear ' + '{number}'
+
+Info
+----
+info: If anyone is curious about the developer or inspiration behind the Kiona bot, there is a info command available.
+
+Rating
+------
+rate: You can rate the bot from 1-100 based on your satisfaction and or experience.
+
+rating: This command will print the average user rating of the bot and the median rating of the bot
+
+search: This command will try and search for a specific rating and checks to see if anyone had given kiona that rating
+        before.
+
+Mental Health
+-------------
+mental: This command can provide specific information of different types of mental illnesses.
+
+Advise
+------
+Feedback: This command lets users give direct feed back about the bot. Anything from new bugs/issues with the bot or
+          cool ideas for new features/commands.
+```
+

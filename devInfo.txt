@@ -1,0 +1,34 @@
+Developer Information
+---------------------
+Howdy, I hope your having a nice day so far :sunny:
+
+If you've used this command, I'm assuming that you want to learn
+a little more about me and the Kiona discord bot. I'd be happy to share
+
+Kiona
+------
+Believe it or not, this bot was inspired by a real person. Shocker right?
+Throughout my life I've been able to befriend and talk with many different
+types of people, many of them becoming my close friends. Unfortunately, we
+can't all go through life without experiencing some ups and downs. This discord
+bot was inspired to help those who might be down on their luck. It's in no ways a
+permanent solution for those suffering from depression or other mental illness but,
+Kiona does try its best. Interactions may include chatting, fun commands/Jokes,
+and spreading awareness by educating people on numerous mental health illnesses and
+their impacts on people.
+
+Developer
+----------
+There nothing interesting to note about me, I'd much rather talk more about the
+bot to be honest. I started this progress in my senior year of high school. I've
+never worked with discord.py or any APIs so it was definitely a fun learning experience.
+There were two main goals with this project, one to genuinely make some sort of application
+that can help someone in need of a friend, and to experiment with machine learning and
+natural language processing. I believe that machine learning is the future and with it,
+dreams and fantasies came be made into reality. My "end goal" as you might call it, would
+be work on a full body VR suit that is accessible and affordable for the general population, kinda
+like the TeslaSuit. For further inquiries my contact will be listed below.
+
+Email: Jeff-li@live.ca
+Github: https://github.com/darkshade70
+

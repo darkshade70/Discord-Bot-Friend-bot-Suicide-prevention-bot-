@@ -1,0 +1,15 @@
+This is a discord bot and has many fun commands and unique chat bot function
+
+The prefix for the bot is k-{command}. All functions/commands will be used or executed through this prefix
+
+certain commands wil require specific permissions and only certain users will be able to use those commands
+
+If you are using this discord bot or wish to download the files and run it, please download and import these libraries.
+You will need to install dialog flow, discord.py, asynchio. When setting up the environment and configuration make sure
+you have python version 3.6 or higher as discord rewrite isn't supported by some of the earlier versions.
+
+When inviting the bot to server it is important to get the server ID code which allows for some of the functions to
+operate. In order to find this id code, go into server settings, click on widget and the server ID should be present
+as a string of numbers
+
+This bot can be used by anyone as it is intended to be a friend bot that anyone can use.
